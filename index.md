@@ -10,6 +10,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+地址
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjIzM3YyLmNvbV82Ny4yMDkuMTgwLjIzOSIsDQogICJhZGQiOiAiNjcuMjA5LjE4MC4yMzkiLA0KICAicG9ydCI6ICI2MDUyMCIsDQogICJpZCI6ICJlODE0NjY2OC1kYmUyLTRhN2UtODU4MC1mYjRiNDAxYjRiOGUiLA0KICAiYWlkIjogIjIzMyIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9 
 
 # Header 1
 ## Header 2
